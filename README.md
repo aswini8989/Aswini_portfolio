@@ -67,4 +67,13 @@ You can host this on GitHub Pages, Netlify, or any static hosting provider.
 
 - 📧 Email: [vijiaswini8@gmail.com](mailto:vijiaswini8@gmail.com)  
 - 📞 Phone: +91 81228 27516  
-- 🔗 LinkedIn: [linkedin.com/in/aswini-balakrishnan-70099
+- 🔗 LinkedIn: [linkedin.com/in/aswini-balakrishnan-70099b293](https://www.linkedin.com/in/aswini-balakrishnan-70099b293)
+
+---
+
+## ⭐ Credits
+
+Made with ❤️ by **Aswini.B**  
+Design, code, and idea are completely self-built for educational and professional use.
+
+---
